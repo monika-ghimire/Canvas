@@ -1,0 +1,14 @@
+/* #reactCanvas
+{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+} */
+#canvas{
+    background-color: rgb(221, 197, 197);
+}
+*
+{
+    color: white;
+}
